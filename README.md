@@ -1,1 +1,1 @@
-# Rock-paper-scissors
+This project allowed me to dive deeper into JavaScript for handling game logic and interactivity while sharpening my front-end skills with HTML and CSS. It’s a simple game, but building it was a fantastic way to enhance my understanding of core web development concepts.Looking forward to tackling more challenging projects and continuing to grow as a developer! 
